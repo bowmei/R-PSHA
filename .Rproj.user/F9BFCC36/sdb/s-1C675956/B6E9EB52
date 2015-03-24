@@ -1,0 +1,17 @@
+{
+    "contents" : "xx <-11\nyy <- 12\nzz <- xx+yy\nzz",
+    "created" : 1427186839379.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "877662706",
+    "id" : "B6E9EB52",
+    "lastKnownWriteTime" : 1427186884,
+    "path" : "R:/R-PSHA/test.r",
+    "project_path" : "test.r",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}
